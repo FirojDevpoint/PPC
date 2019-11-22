@@ -1,11 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-
-  "profile": {
-    "name": "typicode"
-  }
+"Status": true,
+"StatusCode": 200,
+"Message": "Success",
+"Response": [
+        {
+"EventId": 248,
+"Code": "Tes",
+"Name": "Test",
+"EventDate": "2019-11-22T00:00:00",
+"LocationName": "Test",
+"LocationAddress": "Test",
+"LocationCity": "Test",
+"LocationZip": "6436",
+"LocationStateId": 4,
+"Brief": null,
+"LoggedInUserId": 0
+        },
+        {
+"EventId": 243,
+"Code": "201",
+"Name": "2019 Christmas Party",
+"EventDate": "2019-11-30T00:00:00",
+"LocationName": "American Airlines Center",
+"LocationAddress": "1212 Downtown Road",
+"LocationCity": "Dallas",
+"LocationZip": "75098",
+"LocationStateId": 10,
+"Brief": null,
+"LoggedInUserId": 0
+        }
+    ],
+"ErrorMessage": ""
 }
