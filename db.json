@@ -5,9 +5,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "pro": { "name": "typicode" },
-  
    "Abc": { "name": "typicode" },
+  "pro": { "name": "typicode" },
   
    "xyz": { "name": "typicode" }
 }
